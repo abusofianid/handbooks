@@ -1,55 +1,38 @@
-## Handbooks 📚
+## 📚 My Book Collection  
 
-Welcome to the Handbooks Repository!  
-This repository contains a collection of handbooks written in **two languages** for easier access and wider reach:  
-
-- 🌍 [English Version](./english)  
-- 🇮🇩 [Indonesian Version](./indonesia)  
-
----
-
-### 📖 About This Repository
-The purpose of this repository is to provide structured, easy-to-follow handbooks that can be used as a reference for learning and practical usage.  
-Each handbook is available in English and Indonesian, so readers can choose the most convenient language.  
-
-These handbooks cover a range of topics and are designed to be clear, concise, and practical.  
-Whether you are a beginner or an advanced learner, you will find useful information that can help you understand and apply concepts effectively.  
-
----
-
-### 🖊️ Author
-All handbooks in this repository are originally written by me.  
-They are the result of my own learning, research, and documentation efforts.  
-
-If you find these handbooks useful, feel free to share them while giving proper credit.
+Welcome to the **My Book Collection Repository**!  
+This repository contains a collection of my writings on **technology, society, culture, politics, education, and more**.  
+All content is provided in **two languages**: English and Indonesian.  
 
 ---
 
 ### 🚀 How to Use
 1. Open the folder for your preferred language:  
-   - [English](./english)  
-   - [Indonesian](./indonesia)  
-2. Browse the available handbook PDF files.  
-3. Click on a PDF file to open it directly in your browser or download it.  
-4. You can also download or clone this repository if you want offline access.  
+   - 🌍 [English](./english)  
+   - 🇮🇩 [Indonesian](./indonesian)  
+2. Browse the available PDF files.  
+3. Click a PDF file to read it directly in your browser or download it.  
+4. You can also clone this repository for offline access.  
 
-Each handbook is in PDF format, so you can read it using any PDF reader.
+---
+
+### 🖊️ Author
+All content in this repository is originally written by me, based on my own learning, research, and documentation.  
+If you find it useful, feel free to share while giving proper credit.  
 
 ---
 
 ### 🤝 Contribution
 You can help improve this repository by:  
-- Correcting any content errors or typos in the handbooks.  
-- Suggesting new handbook themes or topics.  
+- Correcting any errors or typos.  
+- Suggesting new themes or topics.  
 
-Your contributions will help make my work better and more useful for everyone.  
-Adding new handbooks directly is not allowed to keep the content consistent.  
+(Directly adding new content is not allowed to keep it consistent.)  
 
 ---
 
-### 💸 Free to Use
-All handbooks in this repository are completely free to use.  
-You can read, share, and adapt them without any cost.  
+### 💸 License
+All content in this repository is **free to use and share**.  
 
 ---
 
@@ -60,4 +43,4 @@ You can read, share, and adapt them without any cost.
 
 ---
 
-✨ Thank you for visiting! I hope these handbooks will be useful and help many people.
+✨ Thank you for visiting! I hope these writings will inspire and be useful for many people.
